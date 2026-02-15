@@ -1,0 +1,20 @@
+.site-header {
+    background: white;
+    padding: 18px 12px;
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.logo {
+    width: 75px;
+    height: 75px;
+    object-fit: contain;
+}
+
